@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/league/config" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/league/flysystem-local" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/laravel/pint" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/laravel/prompts" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/clock" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/carbonphp/carbon-doctrine-types" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/test_for_auto_drive/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/test_for_auto_drive/phpunit.xml" custom_loader_path="$PROJECT_DIR$/test_for_auto_drive/vendor/autoload.php" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
